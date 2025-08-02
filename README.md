@@ -11,4 +11,7 @@ Click on the *!pack.bat* file or write this command:
 *kkrunchy --out example_packed.exe music32k.exe*
 You can also change the output file in the batch file so now you know how to do it :)
 
+-- Where can I download this software? Just download it from this link: https://github.com/m4v3r4-doughnutz/xmexe32k
+or download the *Git* program and write this: *git clone https://github.com/m4v3r4-doughnutz/xmexe32k.git*.
+
 (c) 2025 by Filippp / Damage ^ MS
